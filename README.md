@@ -74,12 +74,11 @@ src/
 │
 └── Score/ # Score tracking and display
 
-    ├── Counter.java
+│   ├── Counter.ava
     
-    ├── ScoreIndicator.java
+│   ├── ScoreIndicator.java
     
-    └── ScoreTrackingListener.java
-
+│   ├── ScoreTrackingListener.java
 
 ---
 
