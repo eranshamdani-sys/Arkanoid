@@ -24,6 +24,7 @@ The player controls a **paddle** to bounce a **ball**, breaking blocks to earn p
 
 src/
 
+│
 ├── CollectionsAndRemovers/ # Object management and collision handling
 
 │   ├── BallRemover.java
@@ -42,8 +43,8 @@ src/
 │   ├── Ass5Game.java
 
 │   └── Game.java
-│
 
+│
 ├── Geometry/ # Geometry and physics components
 
 │   ├── Ball.java
@@ -78,7 +79,7 @@ src/
     
 │   ├── ScoreIndicator.java
     
-│   ├── ScoreTrackingListener.java
+│   └── ScoreTrackingListener.java
 
 ---
 
